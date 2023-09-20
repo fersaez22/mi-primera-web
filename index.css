@@ -3,10 +3,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #337221;
     display: flex;
     justify-content: center;
-    align-items: center;
     min-height: 100vh;
 }
 
@@ -25,7 +24,7 @@ header {
 }
 
 header h1 {
-    font-size: 36px;
+    font-size: 52px;
     margin: 0;
 }
 
@@ -56,16 +55,17 @@ nav ul li a:hover {
 
 /* Estilos del contenido principal */
 main {
-    background-color: #fff;
+    background-color: #613c3c;
     padding: 20px;
 }
 
 section {
     margin-bottom: 20px;
+    background-color: black;
 }
 
 h2 {
-    color: #333;
+    color: #604ca4;
     font-size: 24px;
     margin-bottom: 10px;
 }
